@@ -1,0 +1,73 @@
+*{
+    padding: 0;
+    margin:0
+}
+
+    .one{
+        text-align: center;
+        background-color: black;
+        color: white;
+        padding: 20px;
+    }
+
+.food{
+    text-align: center;
+    margin-top: 20px;
+
+}
+.food-one,.food-two,.food-three{
+    text-align: center;
+}
+.food-one,.food-three,.food-two{
+    border-bottom: solid black 3px;
+    border-top: solid black 3px;
+    border-left: solid black 3px;
+    border-right: solid black 3px;
+}
+.food-one__order,.food-two__order,.food-three__order{
+    background-color: black;
+    color: white;
+}
+.contact{
+    background-color: black;
+    color: white;
+    margin-bottom: 30px;
+    margin-top: 20px;
+}
+
+    
+
+.food-one{
+    display: inline-block;
+
+}
+.food-two{
+    display: inline-block;
+}
+.food-three{
+    display: inline-block;
+}
+.contact-one{
+    display: inline-block;
+
+}
+.contact{
+    text-align: center;
+}
+.save-button{
+    text-align: center;
+    background-color: yellowgreen;
+    padding-left: 200px;
+    padding-right: 200px;
+}
+
+    
+
+    
+
+
+
+    
+
+    
+
